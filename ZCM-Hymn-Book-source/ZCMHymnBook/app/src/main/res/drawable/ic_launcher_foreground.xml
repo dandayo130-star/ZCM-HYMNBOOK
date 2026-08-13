@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open hymnal book, original design -->
+    <path
+        android:fillColor="#FBF8F3"
+        android:pathData="M20,38 C20,35 22,33 25,33 L52,36 L52,74 L25,71 C22,70.6 20,68.4 20,65.4 Z" />
+    <path
+        android:fillColor="#FBF8F3"
+        android:pathData="M88,38 C88,35 86,33 83,33 L56,36 L56,74 L83,71 C86,70.6 88,68.4 88,65.4 Z" />
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M52,36 L56,36 L56,74 L52,74 Z" />
+    <!-- musical note accent -->
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M62,44 L70,42 L70,58.5 C70,60.9 68,62.8 65.5,62.8 C63.1,62.8 61.2,60.9 61.2,58.5 C61.2,56.1 63.1,54.2 65.5,54.2 C66.1,54.2 66.7,54.3 67.2,54.6 L67.2,48.3 L62,49.4 Z" />
+</vector>
